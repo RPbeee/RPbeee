@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RPbeee
 - 👀 C,Python,Java等
 - 🌱 SpigotのPLの開発を勉強してます
+- 💽 DQNの勉強もはじめました
 
 <!---
 RPbeee/RPbeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
